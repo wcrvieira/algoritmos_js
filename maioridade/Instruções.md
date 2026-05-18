@@ -28,6 +28,7 @@
 **node index.js**
 
 8 - Após a conclusão dos testes, subir a pasta do projeto no GitHub, seguindo os passos:
+
 // Configurações globais do seu usuário GitHub
 
 **git config --global user.name "seu_usuário"**
