@@ -1,0 +1,16 @@
+{
+  "name": "dia_da_semana",
+  "version": "1.0.0",
+  "description": "Algoritmo que exibe o dia da semana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wagner Cesar Vieira",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
