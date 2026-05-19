@@ -1,0 +1,16 @@
+{
+  "name": "estacoes",
+  "version": "1.0.0",
+  "description": "Algoritmo que analisa estações do ano",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wagner Cesar Vieira",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
